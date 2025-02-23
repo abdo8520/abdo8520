@@ -1,16 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mahmadin Rayan</h1>
-<h3 align="center">A passionate Software Development & Data analyst</h3>
+<h3 align="center">A passionate Data Analyst | Excel VBA Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-
-- 📫 How to reach me **awladelshikh.company777 @gmail.com**
-
+- :school: I am a `Computer Science student` from the Faculty of Computer Science & AI at sohag university
 - 📄 Know about my experiences [abdulrahman-rayan.com](abdulrahman-rayan.com)
+-  Always **learning new things**
+- - 📫 How to reach me **abdulrahmanmahmadienrayan@gmail.com**
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+- :nerd_face:  ⚡ Always `learning new things`
+- 🔥💪🚀 Doing my best 
 
-- ⚡ Always **learning new things**
+<br>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:abdulrahmanmahmadienrayan@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrahman-rayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-rayan/" height="30" width="40" /></a>
 </p>
 
