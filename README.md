@@ -4,10 +4,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Computer Science student` from the Faculty of Computer Science & AI at sohag university
-- 📄 Know about my experiences [abdulrahman-rayan.com](abdulrahman-rayan.com)
+- 📄 Know about my experiences [[abdulrahman-rayan.com]([abdulrahman-rayan.com](https://abdulrahman-rayan.com/))]
 -  Always **learning new things**
 - - 📫 How to reach me **abdulrahmanmahmadienrayan@gmail.com**
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing](https://drive.google.com/file/d/1ICbw404bOFr5M35gULORLlgbQ4r5shgY/view?usp=sharing)).
 - :nerd_face:  ⚡ Always `learning new things`
 - 🔥💪🚀 Doing my best 
 
