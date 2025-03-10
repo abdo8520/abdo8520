@@ -7,6 +7,8 @@
 - 📄 Know about my experiences [abdulrahman-rayan.com](https://abdulrahman-rayan.com/)
 -  Always **learning new things**
 - - 📫 How to reach me **abdulrahmanmahmadienrayan@gmail.com**
+- - 🧑‍💼 For Work  **rayan@abdulrahman-rayan.com**
+
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ICbw404bOFr5M35gULORLlgbQ4r5shgY/view?usp=sharing).
 - 🔥💪🚀 Doing my best 
 
