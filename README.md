@@ -9,7 +9,7 @@
 - - 📫 How to reach me **abdulrahmanmahmadienrayan@gmail.com**
 - - 🧑‍💼 For Work  **rayan@abdulrahman-rayan.com**
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1isNdH0nmfZ-WVgwNA6KIHmLX5GoMyIu6/view?usp=sharing](https://drive.google.com/file/d/1oFUEv10VPbIf2MT-gKFKrdkAZPuUPkJR/view?usp=sharing)).
+- :thinking: I’m currently open for a new `job opportunity`, this is  [MY RESUME](https://drive.google.com/file/d/1oFUEv10VPbIf2MT-gKFKrdkAZPuUPkJR/view)
 - 🔥💪🚀 Doing my best 
 
 <br>
