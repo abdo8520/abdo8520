@@ -6,10 +6,10 @@
 - :school: I am a `Computer Science student` from the Faculty of Computer Science & AI at sohag university
 - 📄 Know about my experiences [abdulrahman-rayan.com](https://abdulrahman-rayan.com/)
 -  Always **learning new things**
-- - 📫 How to reach me **abdulrahmanmahmadienrayan@gmail.com**
+- - 📫 How to reach me **abdulrahman.mahmadien11@gmail.com**
 - - 🧑‍💼 For Work  **rayan@abdulrahman-rayan.com**
 
-- :thinking: I’m currently open for a new `job opportunity`, this is  [MY RESUME](https://drive.google.com/file/d/1oFUEv10VPbIf2MT-gKFKrdkAZPuUPkJR/view)
+- :thinking: I’m currently open for a new `job opportunity`, this is  [MY RESUME]([https://drive.google.com/file/d/1oFUEv10VPbIf2MT-gKFKrdkAZPuUPkJR/view](https://drive.google.com/file/d/1oFUEv10VPbIf2MT-gKFKrdkAZPuUPkJR/view?usp=sharing)
 - 🔥💪🚀 Doing my best 
 
 <br>
